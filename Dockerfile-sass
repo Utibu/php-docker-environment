@@ -1,0 +1,1 @@
+FROM michalklempa/dart-sass:latest
